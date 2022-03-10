@@ -3,6 +3,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.io.IOException;
+
 public class Parser {
     public String cookie;
     Parser(String cookie) {
